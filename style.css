@@ -1,0 +1,9 @@
+ymplayer{direction: ltr;}
+ymplayer .yp-controller .yp-singleInfo{float: right !important;}
+ymplayer .yp-controller .yp-singleInfo .yp-albumImg{float: right !important;}
+ymplayer .yp-controller .yp-singleInfo .yp-singleDetail{margin-right: 10px;float: right;}
+ymplayer .yp-extendBox .yp-playList .yp-currentSingle{border-right: 4px solid #2196f3;border-left: none !important;}
+ymplayer .yp-extendBox .yp-playList single .yp-listNumber{float: right;}
+ymplayer .yp-extendBox .yp-playList single .yp-listTitle{float: right;margin-left: 0px !important;margin-right: 10px;}
+ymplayer .yp-extendBox .yp-playList single .yp-listArtist{left: 10px;}
+ymplayer .yp-controller .yp-singleInfo .yp-singleDetail .yp-singleArtist{float: right;}
