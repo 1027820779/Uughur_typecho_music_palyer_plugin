@@ -10,7 +10,7 @@ typecho 音乐播放器插件
 *  ....
 
 这儿是效果图。
-![board](http://www.tarqat.com/usr/uploads/2016/09/337666423.png)
+![board](https://www.nurqut.net/ud/data/attachment/forum/201609/29/235709n828yyc2rimqc5ss.png)
 
 * <a href="http://www.tarqat.com/archives/184/" target="_blank">查看演示</a>
 
